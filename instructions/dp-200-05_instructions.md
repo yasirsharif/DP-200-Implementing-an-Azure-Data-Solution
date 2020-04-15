@@ -108,7 +108,7 @@ The main tasks for this exercise are as follows:
 
 ### Task 1: Create and configure a Azure Synapse Analytics instance.
 
-1. In the Azure portal, clikc on the link **home** at the top left of the screen.
+1. In the Azure portal, click on the link **home** at the top left of the screen.
 
 1. In the Azure portal, click **+ Create a resource**.
 

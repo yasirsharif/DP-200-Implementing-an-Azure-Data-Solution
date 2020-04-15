@@ -88,7 +88,7 @@ The main tasks for this exercise are as follows:
 
 1. Create a new HTTP dataset to use as a source
 
-1. Create a new ADLS Gen2 dataset sink
+1. Create a new ADLS Gen2 sink
 
 1. Test the Copy Activity
 

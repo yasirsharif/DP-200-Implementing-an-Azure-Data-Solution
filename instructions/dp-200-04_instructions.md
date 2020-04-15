@@ -95,7 +95,7 @@ Individual exercise
   
 The main tasks for this exercise are as follows:
 
-1. Setup your Azure Cosmos DB database and collection
+1. Setup your Azure Cosmos DB database and container 
 
 1. Add data using the portal
 
@@ -103,7 +103,7 @@ The main tasks for this exercise are as follows:
 
 1. Run complex operations on your data
 
-### Task 1: Setup your Azure Cosmos DB database and collection
+### Task 1: Setup your Azure Cosmos DB container and database
 
 1. In the Azure portal, once the deployment of Cosmos DB is completed, click on the **Go to resources** button.
 

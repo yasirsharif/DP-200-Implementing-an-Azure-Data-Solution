@@ -281,7 +281,7 @@ The main tasks for this exercise are as follows:
     val df = spark.read.json("abfss://<file-system-name>@<storage-account-name>.dfs.core.windows.net/preferences.json")
     ```
 
-1. In this code block, replace the **file-system-name** with the word **data** and **storage-account-name** placeholder values in this code block with the value that you collected earlier and are held in notepad.
+1. In this code block, replace the **file-system-name** with the word **logs** and **storage-account-name** placeholder values in this code block with the value that you collected earlier and are held in notepad.
 
 1. In the Notebook, in the cell under **Cmd 2**, click on the **Run** icon and click on **Run Cell**. 
 

@@ -207,7 +207,6 @@ The main tasks for this exercise are as follows:
 
 1. Create containers named **logs** and **data** within the awdlsstudxx storage account.
 
-1. Upload some data files to the data container of the storage account.
 
 ### Task 1: Create and configure a storage account as a Data Lake Store Gen II store.
 
@@ -283,7 +282,7 @@ The main task for this exercise are as follows:
 
 1. Install and start Microsoft Azure Storage Explorer
 
-1. Upload some data files to the data container of the Data Lake Gen II Storage Account.
+1. Upload some data files to the containers of the Data Lake Gen II Storage Account.
 
 ### Task 1: Install Storage Explorer.
 
@@ -313,7 +312,7 @@ The main task for this exercise are as follows:
 
     ![Azure Storage Explore](Linked_Image_Files/M02-E04-T01-img01.png)
 
-### Task 2: Upload data files to the data container of the Data Lake Gen II Storage Account.
+### Task 2: Upload data files to the data and logs container of the Data Lake Gen II Storage Account.
 
 1. In Azure Storage Explorer, click on the arrow to expand your subscription.
 
