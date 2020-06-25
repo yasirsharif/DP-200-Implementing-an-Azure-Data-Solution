@@ -155,7 +155,7 @@ The main tasks for this exercise are as follows:
 
         ![Create a Container in the Azure portal](Linked_Image_Files/M02-E02-T03-img01.png)
 
-1. In the **New Container** screen, click **OK**.
+1. In the **New Container** screen, click **Create**.
 
    > **Note**: The creation of the container is immediate and will appear in the list of the **awrgstudxx - Containers** screen.
 
@@ -258,13 +258,13 @@ The main tasks for this exercise are as follows:
 
 1. In the **awrgstudxx - Containers** screen, at the top left, click on the  **+ Containers** button.
 
-1. From the **New** screen, create two file systems with the following name:
+1. From the **New** screen, create two containers with the following name:
 
     - Name: **data**.
 
     - Name: **logs**
 
-1. In the **New Containers** screen, click **OK**.
+1. In the **New Containers** screen, click **Create**.
 
    > **Note**: The creation of the file system is immediate and will appear in the list of the **awdlsstudxx - Containers** screen as follows.
 
@@ -288,7 +288,7 @@ The main task for this exercise are as follows:
 
 1. In the Azure portal, in the **awdlsstudxx - Containers** screen, click on the **data** item in the list.
 
-1. A screen appears stating Azure Data Lake Storage Gen2 is now available in Storage Explorer, click on the **Download Azure Storage Explorer** hyperlink.
+1. Click on **Overview**, then click **Open in Explorer**, and  then click on the **Download Azure Storage Explorer** hyperlink.
 
 1. You are taken to the following web page for [Azure Storage Explorer](https://azure.microsoft.com/en-us/features/storage-explorer/) where there is a button that states **Download now**. click on this button.
 

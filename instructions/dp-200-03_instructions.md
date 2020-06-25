@@ -133,7 +133,7 @@ The main tasks for this exercise are as follows:
 
     - **Pool**: **None**
 
-    - **Databricks Runtime Version**: **Runtime: 6.2 (Scala 2.11, Spark 2.4.4)**
+    - **Databricks Runtime Version**: **Runtime: 6.3 (Scala 2.11, Spark 2.4.4)**
 
     - Make sure you select the **Terminate after 60** minutes of inactivity check box. If the cluster isn't being used, provide a duration (in minutes) to terminate the cluster.
 
