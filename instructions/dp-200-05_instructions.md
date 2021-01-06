@@ -229,7 +229,7 @@ The main tasks for this exercise are as follows:
 
  > **Note**: The creation of the database takes approximately 6 minutes.
 
-10. Once the database is set up, navigate to the **Data Hub** on the left side of the screen. Select the eclipses next to **Databases** and select **refresh**. You should see the the newly created database DWDB. 
+5. Once the database is set up, navigate to the **Data Hub** on the left side of the screen. Select the eclipses next to **Databases** and select **refresh**. You should see the the newly created database DWDB. 
 
 
 ### Task 3: Create dedicated SQL Pool tables.
