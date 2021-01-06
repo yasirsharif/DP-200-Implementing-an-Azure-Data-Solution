@@ -212,40 +212,29 @@ The main tasks for this exercise are as follows:
 
 2. In the **overview** section navigate to **Launch Synapse Studio**
 
-3. Click on the **Data hub** on the left side of the screen
+3. Click on the **Manage Hub** on the left side of the screen
 
-4. Open the **dedsqlxx** pool 
+4. Select **SQL pool** and select **+ New**
 
-5. Select the eclipses next to the **dedsqlxx** pool. 
+    - In the Basics details section, type in the following information
 
-6. Select **New SQL script**, and **empty script**
+        - **Dedicated SQL pool name**: **DWDB**
 
-    ![Dedicated SQL Pool New SQL Script](Linked_Image_Files/M05-E03-T01-img01a.png)
+    - Leave all the other settings as default
+
+    - Select **Review + Create** and select **Create**
 
 
-7. In the query window, paste the below query which creates a  database named **DWDB**, with a service objective of DW100 and a maximum size of 1024GB.
-
-    ```SQL
-    CREATE DATABASE DWDB COLLATE SQL_Latin1_General_CP1_CI_AS
-    (
-        EDITION             = 'DataWarehouse'
-    ,   SERVICE_OBJECTIVE   = 'DW100C'
-    ,   MAXSIZE             = 1024 GB
-    );
-    ```
-
-8. Navigate to **use database** and select **master**. 
-
-9. Click **run** 
+    ![Dedicated SQL Pool creation through Synapse Workspace](Linked_Image_Files/M05-E03-T01-img01a.png)
 
  > **Note**: The creation of the database takes approximately 6 minutes.
 
-10. Once the query finished, click refresh and navigate to the newly created database under **Databases** , when opening the eclipses.
+10. Once the database is set up, navigate to the **Data Hub** on the left side of the screen. Select the eclipses next to **Databases** and select **refresh**. You should see the the newly created database DWDB. 
 
 
 ### Task 3: Create dedicated SQL Pool tables.
 
-1. In Synapse Studio, navigate to the newly created database under **Databases** , when opening the eclipses in the **Data hub** tab. Click on **DWDB**.
+1. In Synapse Studio, navigate to the newly created database under **Databases** in the **Data hub**, when opening the eclipses in the **Data hub** tab. Click on **DWDB**.
 
 2. Select the eclipses next to the **DWDB** database.
 
