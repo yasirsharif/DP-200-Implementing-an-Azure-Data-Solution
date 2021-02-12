@@ -210,7 +210,7 @@ The main tasks for this exercise are as follows:
 
 1. Navigate to the **dedsqlxx** resource in your resource group. 
 
-2. In the **overview** section navigate to **Launch Synapse Studio**
+2. In the **overview** section of the Synapse Workspace navigate to **Launch Synapse Studio**
 
 3. Click on the **Manage Hub** on the left side of the screen
 
@@ -229,14 +229,14 @@ The main tasks for this exercise are as follows:
 
  > **Note**: The creation of the database takes approximately 6 minutes.
 
-5. Once the database is set up, navigate to the **Data Hub** on the left side of the screen. Select the eclipses next to **Databases** and select **refresh**. You should see the the newly created database DWDB. 
+5. Once the database is set up, navigate to the **Data Hub** on the left side of the screen. Select the ellipsis next to **Databases** and select **refresh**. You should see the the newly created database DWDB. 
 
 
 ### Task 3: Create dedicated SQL Pool tables.
 
-1. In Synapse Studio, navigate to the newly created database under **Databases** in the **Data hub**, when opening the eclipses in the **Data hub** tab. Click on **DWDB**.
+1. In Synapse Studio, navigate to the newly created database under **Databases** in the **Data hub**, when opening the ellipsis in the **Data hub** tab. Click on **DWDB**.
 
-2. Select the eclipses next to the **DWDB** database.
+2. Select the ellipsis next to the **DWDB** database.
 
 3. Select **New SQL script**, and **empty script**
 
@@ -256,9 +256,9 @@ The main tasks for this exercise are as follows:
 
 5. In **Synapse Studio**, click on **Run** and the query will be executed. To verify if the **dbo.Users** table was created you can click refresh and navigate to **tables** which, when expanded, should show you the table. 
 
-6. In Synapse Studio, navigate to the newly created database under **Databases** , when opening the eclipses in the **Data hub** tab. Click on **DWDB**.
+6. In Synapse Studio, navigate to the newly created database under **Databases** , when opening the ellipsis in the **Data hub** tab. Click on **DWDB**.
 
-7. Select the eclipses next to the **DWDB** database.
+7. Select the ellipsis next to the **DWDB** database.
 
 8. Select **New SQL script**, and **empty script**
 
@@ -281,9 +281,9 @@ The main tasks for this exercise are as follows:
 
 10. In **Synapse Studio**, click on **Run** and the query will be executed. To verify if the **dbo.Products** table was created you can click refresh and navigate to **tables** which, when expanded, should show you the table. 
 
-11. In Synapse Studio, navigate to the newly created database under **Databases** , when opening the eclipses in the **Data hub** tab. Click on **DWDB**.
+11. In Synapse Studio, navigate to the newly created database under **Databases** , when opening the ellipsis in the **Data hub** tab. Click on **DWDB**.
 
-12. Select the eclipses next to the **DWDB** database.
+12. Select the ellipsis next to the **DWDB** database.
 
 13. Select **New SQL script**, and **empty script**
 
@@ -325,9 +325,9 @@ The main tasks for this exercise are as follows:
 
 ### Task 2: Create a dbo.Dates table using PolyBase from Azure Blob
 
-1. In Synapse Studio, navigate to the newly created database under **Databases** , when opening the eclipses in the **Data hub** tab. Click on **DWDB**.
+1. In Synapse Studio, navigate to the newly created database under **Databases** , when opening the ellipsis in the **Data hub** tab. Click on **DWDB**.
 
-2. Select the eclipses next to the **DWDB** database.
+2. Select the ellipsis next to the **DWDB** database.
 
 3. Select **New SQL script**, and **empty script**
 
@@ -340,9 +340,9 @@ The main tasks for this exercise are as follows:
 
 5. In **Synapse Studio**, click on **Run** and the query will be executed.
 
-6. In Synapse Studio, navigate to the newly created database under **Databases** , when opening the eclipses in the **Data hub** tab. Click on **DWDB**.
+6. In Synapse Studio, navigate to the newly created database under **Databases** , when opening the ellipsis in the **Data hub** tab. Click on **DWDB**.
 
-7. Select the eclipses next to the **DWDB** database.
+7. Select the ellipsis next to the **DWDB** database.
 
 8. Select **New SQL script**, and **empty script**
 
@@ -361,9 +361,9 @@ The main tasks for this exercise are as follows:
 
 10. In **Synapse Studio**, click on **Run** and the query will be executed.
 
-11. In Synapse Studio, navigate to the newly created database under **Databases** , when opening the eclipses in the **Data hub** tab. Click on **DWDB**.
+11. In Synapse Studio, navigate to the newly created database under **Databases** , when opening the ellipsis in the **Data hub** tab. Click on **DWDB**.
 
-12. Select the eclipses next to the **DWDB** database.
+12. Select the ellipsis next to the **DWDB** database.
 
 13. Select **New SQL script**, and **empty script**
 
@@ -381,9 +381,9 @@ The main tasks for this exercise are as follows:
 
 15. In **Synapse Studio**, click on **Run** and the query will be executed.
 
-16. In Synapse Studio, navigate to the newly created database under **Databases** , when opening the eclipses in the **Data hub** tab. Click on **DWDB**.
+16. In Synapse Studio, navigate to the newly created database under **Databases** , when opening the ellipsis in the **Data hub** tab. Click on **DWDB**.
 
-17. Select the eclipses next to the **DWDB** database.
+17. Select the ellipsis next to the **DWDB** database.
 
 18. Select **New SQL script**, and **empty script**
 
@@ -400,9 +400,9 @@ The main tasks for this exercise are as follows:
 
 20. In **Synapse Studio**, click on **Run** and the query will be executed.
 
-21. . In Synapse Studio, navigate to the newly created database under **Databases** , when opening the eclipses in the **Data hub** tab. Click on **DWDB**.
+21. . In Synapse Studio, navigate to the newly created database under **Databases** , when opening the ellipsis in the **Data hub** tab. Click on **DWDB**.
 
-22. Select the eclipses next to the **DWDB** database.
+22. Select the ellipsis next to the **DWDB** database.
 
 23. Select **New SQL script**, and **empty script**   
 
@@ -449,9 +449,9 @@ The main tasks for this exercise are as follows:
 
 25. In **Synapse Studio**, click on **Run** and the query will be executed.
 
-26. In Synapse Studio, navigate to the newly created database under **Databases** , when opening the eclipses in the **Data hub** tab. Click on **DWDB**.
+26. In Synapse Studio, navigate to the newly created database under **Databases** , when opening the ellipsis in the **Data hub** tab. Click on **DWDB**.
 
-27. Select the eclipses next to the **DWDB** database.
+27. Select the ellipsis next to the **DWDB** database.
 
 28. Select **New SQL script**, and **empty script**  
 
@@ -465,9 +465,9 @@ The main tasks for this exercise are as follows:
 
 30. In **Synapse Studio**, click on **Run** and the query will be executed.
 
-31. In Synapse Studio, navigate to the newly created database under **Databases** , when opening the eclipses in the **Data hub** tab. Click on **DWDB**.
+31. In Synapse Studio, navigate to the newly created database under **Databases** , when opening the ellipsis in the **Data hub** tab. Click on **DWDB**.
 
-32. Select the eclipses next to the **DWDB** database.
+32. Select the ellipsis next to the **DWDB** database.
 
 33. Select **New SQL script**, and **empty script**  
 
@@ -487,9 +487,9 @@ The main tasks for this exercise are as follows:
 
 35. In **Synapse Studio**, click on **Run** and the query will be executed.
 
-36. In Synapse Studio, navigate to the newly created database under **Databases** , when opening the eclipses in the **Data hub** tab. Click on **DWDB**.
+36. In Synapse Studio, navigate to the newly created database under **Databases** , when opening the ellipsis in the **Data hub** tab. Click on **DWDB**.
 
-37. Select the eclipses next to the **DWDB** database.
+37. Select the ellipsis next to the **DWDB** database.
 
 38. Select **New SQL script**, and **empty script**  
  
@@ -504,9 +504,9 @@ The main tasks for this exercise are as follows:
 
 40. In **Synapse Studio**, click on **Run** and the query will be executed.
 
-41. In Synapse Studio, navigate to the newly created database under **Databases** , when opening the eclipses in the **Data hub** tab. Click on **DWDB**.
+41. In Synapse Studio, navigate to the newly created database under **Databases** , when opening the ellipsis in the **Data hub** tab. Click on **DWDB**.
 
-42. Select the eclipses next to the **DWDB** database.
+42. Select the ellipsis next to the **DWDB** database.
 
 43. Select **New SQL script**, and **empty script**
 
