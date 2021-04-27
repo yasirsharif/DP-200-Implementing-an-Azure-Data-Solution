@@ -26,7 +26,7 @@ You are the senior data engineer at AdventureWorks, and you are working with you
 
 You will then provision Azure Synapse Analytics server and test that the provisioning of the server is successful by testing a sample database with a series of queries. You will then use PolyBase to load a dimension table from Azure Blob to test that the integration of this data platform technology with Azure Synapse Analytics.
 
-At the end of this lad, you will have:
+At the end of this lab, you will have:
 
 1. Used Azure SQL Database
 2. Described Azure Synapse Analytics 
